@@ -8,6 +8,175 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 
 ## 📸 Screenshots
 
+### Desktop / Tablet Screens
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7a9247c4-0814-4ba9-bbb3-8cc40a523636" alt="Home Screen" width="100%" style="max-width:1377px; margin-bottom:16px;">
+  <img src="https://github.com/user-attachments/assets/5ecd58a3-9559-470c-83fa-d7176baae003" alt="Category Screen" width="32%" style="margin-right:1%;">
+  <img src="https://github.com/user-attachments/assets/60a414d7-0e7c-4c77-9250-cf4ad00567fb" alt="Product List" width="32%" style="margin-right:1%;">
+  <img src="https://github.com/user-attachments/assets/94e025ea-9345-4c81-87b3-0eab074fcb33" alt="Product Detail" width="32%" style="margin-bottom:16px;">
+</div>
+
+### Mobile Screens
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f479efdc-d720-45cc-8c31-f44300298fd9" alt="Mobile Home" width="180" height="360" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/9ff29494-137a-4683-b1c7-1e651e3ccad5" alt="Mobile Categories" width="180" height="360" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/c327d55d-a423-4aec-8a1d-490cac726b51" alt="Mobile Search" width="180" height="360" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/e60f8882-fa59-4f5b-8c94-7917d3d21740" alt="Mobile Profile" width="180" height="360" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/d0c11eab-c06a-40be-bc02-9725b4d0ca0d" alt="Mobile Admin Panel" width="180" height="360" style="margin:8px;">
+</div>
+
+---
+
+## 🏆 Key Features
+
+### User Features
+- **Dynamic Home & Categories:** Personalized product recommendations and curated category views  
+  <img src="https://github.com/user-attachments/assets/9ff29494-137a-4683-b1c7-1e651e3ccad5" alt="Dynamic Home" width="30%" style="margin-bottom:16px;">
+
+- **Real-Time Cart Management:** Add, remove, update items with instant updates synced across devices
+- **Order History & Tracking:** View past orders and track active deliveries
+- **Profile Management:** Seamless update of personal info and account settings
+- **Secure Authentication:** Firebase Auth for login, signup, and password recovery
+- **Advanced Search:** Fast, global search across Home and Restaurants  
+  <img src="https://github.com/user-attachments/assets/c327d55d-a423-4aec-8a1d-490cac726b51" alt="Search Feature" width="30%" style="margin-bottom:16px;">
+
+- **AI Chatbot Assistance:** Brainshop AI for conversational support  
+  <img src="https://github.com/user-attachments/assets/da8dd4b6-a8c8-4cba-9890-baa78885e396" alt="AI Chatbot" width="90%" style="margin-bottom:16px;">
+
+- **Smooth UI & Animations:** Lottie-powered animations for enhanced experience  
+  <img src="https://github.com/user-attachments/assets/1241026e-1b72-436c-a28b-3a1e7f4b9408" alt="Animations" width="30%" style="margin-bottom:16px;">
+
+- **RecyclerView Implementation:** Modular adapter & view holder setup  
+  <img src="https://github.com/user-attachments/assets/0c3a18f0-76a9-4a9e-a0f8-f47897f79925" alt="RecyclerView Setup" width="90%" style="margin-bottom:16px;">
+  <img src="https://github.com/user-attachments/assets/0bfa26c2-651d-4403-8cba-976423c1eedc" alt="RecyclerView Model" width="90%" style="margin-bottom:16px;">
+  <img src="https://github.com/user-attachments/assets/6289ddcc-6ec7-4b5d-a72f-bd3b8bb5b2ac" alt="RecyclerView Item Setup" width="90%" style="margin-bottom:16px;">
+  <img src="https://github.com/user-attachments/assets/78cefd82-0751-4628-ae5e-853f3a056eb3" alt="RecyclerView Item Example" width="90%" style="margin-bottom:16px;">
+
+### Admin / Restaurant Features
+- **Comprehensive Admin Panel:** Add, edit, delete products and categories dynamically  
+  <img src="https://github.com/user-attachments/assets/13307567-124e-47a8-b7b3-61dda8c9b40d" alt="Admin Panel" width="25%" style="margin-bottom:16px;">
+
+- **Order & Cart Management:** Monitor all user orders with real-time updates
+- **CRUD Operations:** Full Firestore integration for products, cart, orders, and user profiles  
+  <img src="https://github.com/user-attachments/assets/e24ad803-ddf2-403c-b077-5137eb347154" alt="CRUD Operations" width="25%" style="margin-bottom:16px;">
+
+- **Dynamic Media Management:** Upload/display product images and profile photos  
+  <img src="https://github.com/user-attachments/assets/5bf41195-d1bc-4478-a5cd-0d31e787991d" alt="Media Management" width="90%" style="margin-bottom:16px;">
+
+- **Instant Product Updates:** Newly added products appear immediately in the app  
+  <img src="https://github.com/user-attachments/assets/f6f726fb-5634-4324-ba9f-326083257454" alt="Product Update" width="25%" style="margin-bottom:16px;">
+
+---
+
+## 🛠 Technical Stack
+
+| Layer            | Tools / Technologies |
+|-----------------|-------------------|
+| Mobile Frontend  | Android (Kotlin/Java), RecyclerView, Lottie Animations |
+| Backend & Auth   | Firebase Realtime Database, Firestore, Firebase Authentication |
+| AI / Chatbot     | Brainshop AI |
+| Admin Panel      | Android Admin Module integrated with Firebase |
+| Storage & Media  | Firestore for product images and profile photos |
+| App Architecture | MVVM, reusable RecyclerView components, modular architecture |
+
+---
+
+## 📊 Database & Architecture
+
+- **User Data:** Firebase Realtime Database for instant updates  
+  <img src="https://github.com/user-attachments/assets/1493b1ed-615e-404c-bc65-076631fb6f8e" alt="User Data Schema" width="90%" style="margin-bottom:16px;">
+
+- **App Data (Products, Cart, Orders):** Firestore for scalable and synchronized storage  
+  <img src="https://github.com/user-attachments/assets/738e35f2-f023-4335-aa46-439f57ea6129" alt="App Data Schema" width="90%" style="margin-bottom:16px;">
+
+- **Authentication:** Firebase Auth links users to their cart and orders  
+  <img src="https://github.com/user-attachments/assets/ff8efbff-cc27-4311-b6f7-aa59e84fc95f" alt="Auth Schema" width="90%" style="margin-bottom:16px;">
+
+- **CRUD Operations:** Complete support for Profile, Cart, Orders, and Admin management
+
+---
+
+## 🍳 User Flow
+
+- **Onboarding & Preferences:** Personalized setup for a tailored experience
+- **Home Page & Categories:** Multiple RecyclerViews for recommended items, popular products, and categories  
+  <img src="https://github.com/user-attachments/assets/f479efdc-d720-45cc-8c31-f44300298fd9" alt="User Flow - Home" width="30%" style="margin-bottom:16px;">
+
+- **Search Bar:** Quickly find items or restaurants  
+  <img src="https://github.com/user-attachments/assets/aa2cb77c-2390-47e4-b89c-1b66c26f2d88" alt="Search Code" width="45%" style="margin-bottom:8px;">
+  <img src="https://github.com/user-attachments/assets/f70816d1-e6c6-417f-92a4-9287f2befe9a" alt="Search UI" width="45%" style="margin-bottom:16px;">
+
+- **Product Details & AI Recommendations:** AI-based suggestions for each product
+- **Cart Management:** Dynamic real-time updates  
+  <img src="https://github.com/user-attachments/assets/4730a933-2a24-4cf7-a71f-89f066c41b60" alt="Cart Updates" width="70%" style="margin-bottom:16px;">
+
+- **Checkout:** Validation for orders, delivery, and payment
+- **Order History:** View past and active orders
+- **Profile Management:** Update account info and profile pictures  
+  <img src="https://github.com/user-attachments/assets/e60f8882-fa59-4f5b-8c94-7917d3d21740" alt="Profile Management" width="25%" style="margin-bottom:16px;">
+
+- **Admin Panel:** Manage products, categories, and new items dynamically  
+  <img src="https://github.com/user-attachments/assets/d0c11eab-c06a-40be-bc02-9725b4d0ca0d" alt="Admin Panel Flow" width="25%" style="margin-bottom:16px;">
+
+---
+
+## 🚀 Highlights & Achievements
+
+<img src="https://github.com/user-attachments/assets/a8c9ca0d-2f0f-4a36-9f65-90f903f82ae4" alt="Highlights" width="100%" style="margin-bottom:16px;">
+
+- Production-ready, fully functional, and scalable
+- Full-stack Android + Firebase integration
+- AI-powered chatbot assistance
+- Dynamic media & CRUD operations
+- Reusable RecyclerView components
+- Industry-level app comparable to Talabat
+- Independently developed with maintainable codebase
+
+---
+
+## 🌐 Resources
+
+- [Firebase Documentation](https://firebase.google.com/docs)
+- [Brainshop AI](https://www.brainshop.ai/)
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for details.
+
+---
+
+Quick Cuisine is a production-ready Android app demonstrating full-stack development, AI integration, and scalable architecture—perfect for showcasing senior software engineering expertise and independent industry-level project delivery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 🍔 Quick Cuisine – Production-Ready Full-Stack Android Food Delivery & E-Commerce App
+
+**Full-Stack Android Food Delivery & E-Commerce App | Real-Time Firebase Backend | AI Chatbot | Admin Panel | Scalable Architecture**
+
+Quick Cuisine is a production-ready, full-stack Android application independently developed to rival industry-leading food delivery apps like Talabat. It demonstrates advanced skills in mobile development, backend architecture, database design, AI integration, and admin panel functionality, all built for real-world deployment and scalability.
+
+---
+
+## 📸 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7a9247c4-0814-4ba9-bbb3-8cc40a523636" alt="Home Screen" width="100%" style="max-width:1377px; margin-bottom:16px;">
   <img src="https://github.com/user-attachments/assets/5ecd58a3-9559-470c-83fa-d7176baae003" alt="Category Screen" width="32%" style="margin-right:1%;">
