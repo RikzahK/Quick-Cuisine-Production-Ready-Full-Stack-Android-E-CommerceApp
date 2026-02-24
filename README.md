@@ -24,7 +24,7 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 ## Tech Stack
 
 **Frontend (Android App)**
-- Kotlin, Jetpack Compose
+- Java
 - Android Architecture Components (ViewModel, LiveData)
 - Lottie Animations for UI Enhancements
 - RecyclerView & Modular Adapter Design
