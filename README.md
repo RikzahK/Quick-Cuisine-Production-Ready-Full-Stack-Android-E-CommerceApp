@@ -25,9 +25,10 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 ### User Features
 
 - **Dynamic Home & Categories:** Personalized product recommendations and curated category views  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/9ff29494-137a-4683-b1c7-1e651e3ccad5" alt="Dynamic Home" width="300px">
-  </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ff29494-137a-4683-b1c7-1e651e3ccad5" alt="Dynamic Home" width="100%">
+</p>
 
 - **Advanced Search:** Fast, global search across Home and Restaurants  
   <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
