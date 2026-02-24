@@ -11,11 +11,6 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7a9247c4-0814-4ba9-bbb3-8cc40a523636" alt="Home Screen" width="100%" style="max-width:1377px; margin-bottom:16px;">
   
-  <div style="display:flex; justify-content:center; gap:8px; background-color:#fdf6e3; padding:8px;">
-    <img src="https://github.com/user-attachments/assets/5ecd58a3-9559-470c-83fa-d7176baae003" alt="Category Screen" width="300px">
-    <img src="https://github.com/user-attachments/assets/60a414d7-0e7c-4c77-9250-cf4ad00567fb" alt="Product List" width="300px">
-    <img src="https://github.com/user-attachments/assets/94e025ea-9345-4c81-87b3-0eab074fcb33" alt="Product Detail" width="300px">
-  </div>
 </div>
 
 ---
@@ -54,11 +49,9 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 
 
 - **Dynamic Media Management:** Upload/display product images and profile photos  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/5bf41195-d1bc-4478-a5cd-0d31e787991d" alt="Media Management" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (7)](https://github.com/user-attachments/assets/86df46b6-493f-41db-b96c-10ad59a6c39b)
+
 
 - **Instant Product Updates:** Newly added products appear immediately in the app  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/f6f726fb-5634-4324-ba9f-326083257454" alt="Product Update" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (8)](https://github.com/user-attachments/assets/6d756205-dcb2-46c1-bc95-a9548e113b74)
+
