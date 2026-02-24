@@ -29,39 +29,29 @@ Quick Cuisine is a production-ready, full-stack Android application independentl
 
 
 - **Advanced Search:** Fast, global search across Home and Restaurants  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/c327d55d-a423-4aec-8a1d-490cac726b51" alt="Search Feature" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (1)](https://github.com/user-attachments/assets/06efb1ce-9989-45c1-a588-8889bc3bbad8)
+
 
 - **AI Chatbot Assistance:** Brainshop AI for conversational support  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/da8dd4b6-a8c8-4cba-9890-baa78885e396" alt="AI Chatbot" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (2)](https://github.com/user-attachments/assets/8b999567-5ef1-4e33-8ba3-6c33d3f02b70)
 
 - **Smooth UI & Animations:** Lottie-powered animations for enhanced experience  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/1241026e-1b72-436c-a28b-3a1e7f4b9408" alt="Animations" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (3)](https://github.com/user-attachments/assets/59c1ba56-496b-4987-9274-0777bcc0441c)
+
 
 - **RecyclerView Implementation:** Modular adapter & view holder setup  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/0c3a18f0-76a9-4a9e-a0f8-f47897f79925" alt="RecyclerView Setup" width="300px">
-    <img src="https://github.com/user-attachments/assets/0bfa26c2-651d-4403-8cba-976423c1eedc" alt="RecyclerView Model" width="300px">
-    <img src="https://github.com/user-attachments/assets/6289ddcc-6ec7-4b5d-a72f-bd3b8bb5b2ac" alt="RecyclerView Item Setup" width="300px">
-    <img src="https://github.com/user-attachments/assets/78cefd82-0751-4628-ae5e-853f3a056eb3" alt="RecyclerView Item Example" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (4)](https://github.com/user-attachments/assets/30441fb8-88f1-4528-ab6a-3f82a33193d6)
+
 
 ### Admin / Restaurant Features
 
 - **Comprehensive Admin Panel:** Add, edit, delete products and categories dynamically  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/13307567-124e-47a8-b7b3-61dda8c9b40d" alt="Admin Panel" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (5)](https://github.com/user-attachments/assets/6f01c449-4dfe-4932-b64d-97fbf0e89364)
+
 
 - **CRUD Operations:** Full Firestore integration for products, cart, orders, and user profiles  
-  <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
-    <img src="https://github.com/user-attachments/assets/e24ad803-ddf2-403c-b077-5137eb347154" alt="CRUD Operations" width="300px">
-  </div>
+![Black Modern Food Menu Presentation (6)](https://github.com/user-attachments/assets/38891454-0e18-4219-af62-58e91136741c)
+
 
 - **Dynamic Media Management:** Upload/display product images and profile photos  
   <div style="background-color:#fdf6e3; display:inline-block; padding:8px; margin-bottom:16px;">
